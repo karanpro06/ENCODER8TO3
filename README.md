@@ -1,6 +1,7 @@
 # ENCODER8TO3
 # Aim
 To design and simulate encoder using vivado.
+# Block diagram
 ![image](https://github.com/RESMIRNAIR/ENCODER3TO8/assets/154305926/824226c8-c767-44b5-ab35-26fed65b195e)
 # Truth Table
 ![image](https://github.com/RESMIRNAIR/ENCODER3TO8/assets/154305926/e228c14b-b814-40c8-92eb-748d48570c04)
