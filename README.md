@@ -1,6 +1,8 @@
 # ENCODER8TO3
 # Aim
 To design and simulate encoder using vivado.
+# Apparatus Required
+Personal computer with vivado software.
 # Block diagram
 ![image](https://github.com/RESMIRNAIR/ENCODER3TO8/assets/154305926/824226c8-c767-44b5-ab35-26fed65b195e)
 # Truth Table
